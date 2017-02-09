@@ -20,7 +20,7 @@
     "gulp-spawn-mocha": "^3.1.0",
     "gulp-uglify": "^2.0.0",
     "gulp-util": "^3.0.8",
-    "gulp-each": "^0.2.0",
+    "gulp-each": "^0.3.0",
     "gulp-file-contents-to-json": "^0.2.1",
     "linebreak": "^0.3.0",
     "iconv-lite":"^0.4.15",
