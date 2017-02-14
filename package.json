@@ -11,7 +11,7 @@
     "lodash": "^4.17.3"
   },
   "devDependencies": {
-    "expose-loader": "^0.7.1",
+    "expose-loader": "^0.7.3",
     "gulp": "^3.9.1",
     "gulp-jshint": "^2.0.4",
     "gulp-rename": "^1.2.2",
