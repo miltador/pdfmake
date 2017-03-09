@@ -18,7 +18,7 @@
     "gulp-replace": "^0.5.4",
     "gulp-sourcemaps": "^1.9.1",
     "gulp-spawn-mocha": "^3.1.0",
-    "gulp-uglify": "^2.0.0",
+    "gulp-uglify": "^2.1.0",
     "gulp-util": "^3.0.8",
     "gulp-each": "^0.2.0",
     "gulp-file-contents-to-json": "^0.2.1",
